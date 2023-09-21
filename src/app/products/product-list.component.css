@@ -1,4 +1,5 @@
-tbody {
-   color: rgb(9, 223, 223);
-   background-color: black;
+thead {
+   /* color: blue !important; */
+   --bs-table-color: rgb(255, 255, 255);
+   --bs-table-bg: rgb(0, 110, 255);
 }
